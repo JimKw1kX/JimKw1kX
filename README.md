@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👨‍💻 Jim Solomon - Offensive Security | AI Engineer
 
-<!--
-**JimKw1kX/JimKw1kX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Offensive Security | Red Teaming | AI Security | Web & API Pentesting
 
-Here are some ideas to get you started:
+## 🔹 About Me
+I'm an **Offensive Security Engineer** with expertise in **malware development, red teaming, penetration testing, and AI-driven security solutions**. Passionate about cybersecurity research and AI/ML and LLM. I like software development for offensive security and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Skills & Expertise
+- **Penetration Testing**: Web, API, and Mobile Security
+- **Red Teaming & Malware Development**: Shellcode loaders, AV/EDR evasion
+- **Secure Coding & Application Security**: OWASP Top 10, secure architecture
+- **Incident Response & Digital Forensics**: Reverse engineering, memory forensics and digital forensics
+- **Cloud Security**: AWS Security hardening, automation
+- **Machine Learning in Security**: Adversarial ML, AI-driven threat detection
+
+
+## 🛠️ Offensive Security Projects
+### 🔹 [Malware Shellcode Loader](https://github.com/yourgithub/malware-loader)
+- A custom shellcode loader that evades EDR detection using syscalls and direct memory injection.
+
+### 🔹 [Havoc-C2-Modification-YARA-Free](https://github.com/JimKw1kX/Havoc-C2-Modification-YARA-Free)
+
+- During a red team engagement, I modified an open-source Command-and-Control (C2) framework to ensure it was YARA-free, enabling safer in-memory execution via a loader and evading detection by common YARA scans used by Endpoint Detection and Response (EDR) systems that successfully achieved 0% YARA detection.
+
+### 🔹 [Lsass-dump-duplicated-handle-with-AES-Encryption](https://github.com/yourgithub/web-pentest)
+
+- A Lsass-dump malware that utilises duplicated handle with AES Encryption to avoid detections.
+
+### 🔹 [.NET Shellcode Injector HTTP](https://github.com/JimKw1kX/Shellcode-Injector)  🔹 [.NET Shellcode Injector HTTPS](https://github.com/JimKw1kX/Shellcode-Injector-https)
+- A shellcode injector tool to inject shellcode into VBA macros to bypass bypass Attack surface reduction (ASR).
+
+### 🔹 [AWS-Web-Scanner](https://github.com/JimKw1kX/Shellcode-Injector-https)
+- A web scan tool using AWS lambda function and Fargate.
+
+### 🔹 [Command & Control (C2) Server](https://github.com/yourgithub/c2-server)
+- A custom C2 framework using **Python & PyQt6**, with AI-assisted threat analysis for advanced **red team operations**.
+
+
+
+
+## 🤖 AI/ML Projects
+
+### 🔹 [ML Data Analysis](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/ML/Data-Visualisation-ML.ipynb)
+-  Utilised machine learning libraries Panda, Numpy and Matplotlib to analyse security datasets, identified abnormal patterns and data
+exfiltration attacks using the K-means clustering algorithm, and performed data visualisation using Matplotlib
+
+### 🔹 [Train GPT2 (124M) From Scratch](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/LLM/GPT-2/train_gpt2.py)
+-  A GPT2 script built from Scratch , can be trained on [A100 Nvidia GPU](https://lambdalabs.com/) about few hours.
+
+## 📬 Contact
+
+- [Linkedin](https://www.linkedin.com/in/jimsolomonx)
+
