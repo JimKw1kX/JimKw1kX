@@ -22,7 +22,7 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 
 - During a red team engagement, I modified an open-source Command-and-Control (C2) framework to ensure it was YARA-free, enabling safer in-memory execution via a loader and evading detection by common YARA scans used by Endpoint Detection and Response (EDR) systems that successfully achieved 0% YARA detection.
 
-### 🔹 [Lsass-dump-duplicated-handle-with-AES-Encryption](https://github.com/JimKw1kX/AES-Lsass-dump-via-duplicated-handle)
+### 🔹 [AES Lsass dump tool](https://github.com/JimKw1kX/AES-Lsass-dump-via-duplicated-handle)
 
 - A Lsass-dump malware that utilises duplicated handle with AES Encryption to avoid detections.
 
