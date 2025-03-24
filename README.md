@@ -15,12 +15,12 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 
 
 ## 🛠️ Offensive Security Projects
-### 🔹 [Malware Shellcode Loader](https://github.com/yourgithub/malware-loader)
-- A custom shellcode loader that evades EDR detection using syscalls and direct memory injection.
+### 🔹 [Dll Shellcode Loader](https://github.com/yourgithub/malware-loader)
+- A custom DLL shellcode loader that evades EDR detection using syscalls and direct memory injection.
 
 ### 🔹 [Havoc-C2-Modification-YARA-Free](https://github.com/JimKw1kX/Havoc-C2-Modification-YARA-Free)
 
-- During a red team engagement, I modified an open-source Command-and-Control (C2) framework to ensure it was YARA-free, enabling safer in-memory execution via a loader and evading detection by common YARA scans used by Endpoint Detection and Response (EDR) systems that successfully achieved 0% YARA detection.
+- Modified [Havoc](https://github.com/HavocFramework/Havoc) to successfully achieved 0% YARA detection, enabling safer in-memory execution via a loader and evading detection by common YARA scans used by Endpoint Detection and Response (EDR) systems.
 
 ### 🔹 [AES Lsass dump tool](https://github.com/JimKw1kX/AES-Lsass-dump-via-duplicated-handle)
 
