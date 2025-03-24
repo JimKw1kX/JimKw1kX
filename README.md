@@ -15,7 +15,7 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 
 
 ## 🛠️ Offensive Security Projects
-### 🔹 [Dll Shellcode Loader](https://github.com/yourgithub/malware-loader)
+### 🔹 [Dll Shellcode Loader](https://github.com/JimKw1kX/Dll-Shellcode-Loader)
 - A custom DLL shellcode loader that evades EDR detection using syscalls and direct memory injection.
 
 ### 🔹 [Havoc-C2-Modification-YARA-Free](https://github.com/JimKw1kX/Havoc-C2-Modification-YARA-Free)
@@ -32,8 +32,7 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 ### 🔹 [AWS-Web-Scanner](https://github.com/JimKw1kX/Shellcode-Injector-https)
 - A web scan tool using AWS lambda function and Fargate.
 
-### 🔹 [Command & Control (C2) Server](https://github.com/yourgithub/c2-server)
-- A custom C2 framework using **Python & PyQt6**, with AI-assisted threat analysis for advanced **red team operations**.
+
 
 
 
