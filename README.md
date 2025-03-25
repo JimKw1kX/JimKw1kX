@@ -20,7 +20,7 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 
 ### 🔹 [Havoc-C2-Modification-YARA-Free](https://github.com/JimKw1kX/Havoc-C2-Modification-YARA-Free)
 
-- Modified [Havoc](https://github.com/HavocFramework/Havoc) to successfully achieved 0% YARA detection, enabling safer in-memory execution via a loader and evading detection by common YARA scans used by Endpoint Detection and Response (EDR) systems.
+- Modified [Havoc](https://github.com/HavocFramework/Havoc) to successfully achieved 0% YARA rule detection such as from [Elastic](https://github.com/elastic/protections-artifacts), enabling safer in-memory execution via a loader and evading detection by common YARA scans used by Endpoint Detection and Response (EDR) systems.
 
 ### 🔹 [AES Lsass dump tool](https://github.com/JimKw1kX/AES-Lsass-dump-via-duplicated-handle)
 
