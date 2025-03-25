@@ -32,12 +32,10 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 ### 🔹 [AWS-Web-Scanner](https://github.com/JimKw1kX/Shellcode-Injector-https)
 - A web scan tool using AWS lambda function and Fargate.
 
-
-
-
-
-
 ## 🤖 AI/ML Projects
+
+### 🔹 [Command & Control (C2) Server](https://github.com/JimKw1kX/LLM-C2-Server)
+- A custom C2 framework using **Python & PyQt6**, with AI-assisted threat analysis for advanced **red team operations**.
 
 ### 🔹 [ML Data Analysis](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/ML/Data-Visualisation-ML.ipynb)
 -  Utilised machine learning libraries Panda, Numpy and Matplotlib to analyse security datasets, identified abnormal patterns and data
