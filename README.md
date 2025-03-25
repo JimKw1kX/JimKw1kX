@@ -29,7 +29,7 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 ### 🔹 [.NET Shellcode Injector HTTP](https://github.com/JimKw1kX/Shellcode-Injector)  🔹 [.NET Shellcode Injector HTTPS](https://github.com/JimKw1kX/Shellcode-Injector-https)
 - A shellcode injector tool to inject shellcode into VBA macros to bypass bypass Attack surface reduction (ASR).
 
-### 🔹 [AWS-Web-Scanner](https://github.com/JimKw1kX/Shellcode-Injector-https)
+### 🔹 [AWS-Web-Scanner](https://github.com/JimKw1kX/AWS-Web-Scanner)
 - A web scan tool using AWS lambda function and Fargate.
 
 ## 🤖 AI/ML Projects
