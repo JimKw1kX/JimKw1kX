@@ -1,4 +1,4 @@
-# 👨‍💻 Jim Solomon - Offensive Security | AI Engineer
+# 👨‍💻 Jim Solomon - Offensive Security & AI Engineer
 
 🚀 Offensive Security | Red Teaming | AI Security | Web & API Pentesting
 
