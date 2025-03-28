@@ -6,7 +6,7 @@
 I'm an **Offensive Security Engineer** with expertise in **malware development, red teaming, penetration testing, and AI-driven security solutions**. Passionate about cybersecurity research and AI/ML and LLM. I like software development for offensive security and AI.
 
 ## 📌 Skills & Expertise
-- **Penetration Testing**: Web, API, and Mobile Security
+- **Penetration Testing**: Web, API, External/Internal, Red/Purple Team
 - **Red Teaming & Malware Development**: Shellcode loaders, AV/EDR evasion
 - **Secure Coding & Application Security**: OWASP Top 10, secure architecture
 - **Incident Response & Digital Forensics**: Reverse engineering, memory forensics and digital forensics
