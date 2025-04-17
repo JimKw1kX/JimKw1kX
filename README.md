@@ -33,6 +33,8 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 - A web scan tool using AWS lambda function and Fargate.
 
 ## 🤖 AI/ML Projects
+### 🔹[Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1](https://github.com/suresh-srinivas/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1)
+[![GitHub Contributor](https://img.shields.io/badge/PR-Merged-green?logo=github)](https://github.com/suresh-srinivas/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1/pull/1)
 
 ### 🔹 [GenAI Command & Control (C2) Server](https://github.com/JimKw1kX/LLM-C2-Server)
 - A custom C2 framework using **Python & PyQt6**, Integrating with LLMs to assist threat analysis for advanced **red team operations** and GenAI assistance.
