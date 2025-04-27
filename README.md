@@ -39,15 +39,15 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 ### 🔹 [GenAI Command & Control (C2) Server](https://github.com/JimKw1kX/LLM-C2-Server)
 - A custom C2 framework using **Python & PyQt6**, Integrating with LLMs to assist threat analysis for advanced **red team operations** and GenAI assistance.
 
-### 🔹 [ML Data Analysis](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/ML/Data-Visualisation-ML.ipynb)
+### 🔹 ML Data Analysis
 -  Utilised machine learning libraries Panda, Numpy and Matplotlib to analyse security datasets, identified abnormal patterns and data
 exfiltration attacks using the K-means clustering algorithm, and performed data visualisation using Matplotlib
 
-    - ### 💻 Notebook links:
+    - ## 💻 Notebook links:
         - [🔗 Malware Data-Visualisation](https://colab.research.google.com/drive/16KvR2vf1UBsamo6H0kGXCKYZhNLkxzRW?usp=sharing)
         - [🔗 Security Data Analysis](https://colab.research.google.com/drive/1o-5r3iD8-ZqLwtyXQM-_Ml520ts6UHsU?usp=sharing)
 
-    - ### 💾 Datasets:
+    - ## 💾 Datasets:
         - [🔗 Datasets link](https://drive.google.com/drive/folders/1hj4EOLezXCQCVrL7R-bJ2OX8WEdbl_vc?usp=sharing)
 
 ### 🔹 [Train GPT2 (124M) From Scratch](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/LLM/GPT-2/train_gpt2.py)
