@@ -1,6 +1,6 @@
 # 👨‍💻 Jim Solomon - Offensive Security & AI Engineer
 
-🚀 Offensive Security | Red Teaming | AI Security | Web & API Pentesting | AWS Security
+🚀 Offensive Security | Red Teaming | AI Security | Web & API Pentesting
 
 ## 🔹 About Me
 I'm an **Offensive Security Engineer** with expertise in **malware development, red teaming, penetration testing, and AI-driven security solutions**. Passionate about cybersecurity research and AI/ML and LLM. I like software development for offensive security and AI.
@@ -43,12 +43,12 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 -  Utilised machine learning libraries Panda, Numpy and Matplotlib to analyse security datasets, identified abnormal patterns and data
 exfiltration attacks using the K-means clustering algorithm, and performed data visualisation using Matplotlib
 
-- ## 💻 Notebook links:
-- [🔗 Malware Data-Visualisation](https://colab.research.google.com/drive/16KvR2vf1UBsamo6H0kGXCKYZhNLkxzRW?usp=sharing)
-- [🔗 Security Data Analysis](https://colab.research.google.com/drive/1o-5r3iD8-ZqLwtyXQM-_Ml520ts6UHsU?usp=sharing)
+    - ### 💻 Notebook links:
+        - [🔗 Malware Data-Visualisation](https://colab.research.google.com/drive/16KvR2vf1UBsamo6H0kGXCKYZhNLkxzRW?usp=sharing)
+        - [🔗 Security Data Analysis](https://colab.research.google.com/drive/1o-5r3iD8-ZqLwtyXQM-_Ml520ts6UHsU?usp=sharing)
 
-- ## Datasets:
-- [🔗 Datasets link](https://drive.google.com/drive/folders/1hj4EOLezXCQCVrL7R-bJ2OX8WEdbl_vc?usp=sharing)
+    - ### 💾 Datasets:
+        - [🔗 Datasets link](https://drive.google.com/drive/folders/1hj4EOLezXCQCVrL7R-bJ2OX8WEdbl_vc?usp=sharing)
 
 ### 🔹 [Train GPT2 (124M) From Scratch](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/LLM/GPT-2/train_gpt2.py)
 -  A GPT2 script built from Scratch , can be trained on [A100 Nvidia GPU](https://lambdalabs.com/) about few hours.
