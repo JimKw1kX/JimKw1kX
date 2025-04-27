@@ -34,7 +34,8 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 
 ## 🤖 AI/ML Projects
 ### 🔹[Google-GenAI-Capstone-Project-2025Q1](https://github.com/JimKw1kX/Google-GenAI-Capstone-Project-2025Q1)
-- This Capstone Project is part of the 5-day Gen AI Intensive Course with Google, which took place from Monday, March 31 – Friday, April 4, 2025.
+- This is the [Gen AI Intensive Course Capstone 2025Q1 Project](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1) which is part of [5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
+Participants collaborated on applying Generative AI to the problem of understanding and optimizing residential energy consumption using real-world and simulated datasets.
 
 ### 🔹 [GenAI Command & Control (C2) Server](https://github.com/JimKw1kX/LLM-C2-Server)
 - A custom C2 framework using **Python & PyQt6**, Integrating with LLMs to assist threat analysis for advanced **red team operations** and GenAI assistance.
