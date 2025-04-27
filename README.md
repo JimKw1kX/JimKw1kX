@@ -33,7 +33,7 @@ I'm an **Offensive Security Engineer** with expertise in **malware development, 
 - A web scan tool using AWS lambda function and Fargate.
 
 ## 🤖 AI/ML Projects
-### 🔹[Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1](https://github.com/JimKw1kX/Watt-Seer-Blog-Gen-AI-Intensive-Course-Capstone-2025Q1)
+### 🔹[Google-GenAI-Capstone-Project-2025Q1](https://github.com/JimKw1kX/Google-GenAI-Capstone-Project-2025Q1)
 - This Capstone Project is part of the 5-day Gen AI Intensive Course with Google, which took place from Monday, March 31 – Friday, April 4, 2025.
 
 ### 🔹 [GenAI Command & Control (C2) Server](https://github.com/JimKw1kX/LLM-C2-Server)
