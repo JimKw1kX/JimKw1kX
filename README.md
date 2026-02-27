@@ -1,17 +1,7 @@
 # Offensive Security & AI Engineer
 
-🚀 Offensive Security | Red Teaming | AI Security | Web & API Pentesting | AWS Security | GenAI Developer
 
-## 🔹 About Me
-I'm an **Offensive Security Engineer** with expertise in **malware development, red teaming, penetration testing, and AI-driven security solutions**. Passionate about cybersecurity research and AI/ML and LLM. I like software development for offensive security and AI.
-
-## 📌 Skills & Expertise
-- **Penetration Testing**: Web, API, External/Internal, Red/Purple Team
-- **Red Teaming & Malware Development**: Shellcode loaders, AV/EDR evasion
-- **Secure Coding & Application Security**: OWASP Top 10, secure architecture
-- **Incident Response & Digital Forensics**: Reverse engineering, memory forensics and digital forensics
-- **Cloud Security**: AWS Security hardening, automation
-- **Machine Learning in Security**: Adversarial ML, AI-driven threat detection
+![Jim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JimKw1kX&show_icons=true&theme=radical)
 
 
 ## 🛠️ Offensive Security Projects
