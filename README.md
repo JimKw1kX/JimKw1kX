@@ -4,7 +4,8 @@
 ![Jim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JimKw1kX&show_icons=true&theme=radical)
 
 
-## 🛠️ Offensive Security Projects
+## 🛠️ Red Team Tools 
+
 ### 🔹 [Dll Shellcode Loader](https://github.com/JimKw1kX/Dll-Shellcode-Loader)
 - A custom DLL shellcode loader that evades EDR detection using syscalls and direct memory injection.
 
@@ -22,7 +23,7 @@
 ### 🔹 [AWS-Web-Scanner](https://github.com/JimKw1kX/AWS-Web-Scanner)
 - A web scan tool using AWS lambda function and Fargate.
 
-## 🤖 AI/ML Projects
+## 🤖 AI
 ### 🔹[Google-GenAI-Capstone-Project-2025Q1](https://github.com/JimKw1kX/Google-GenAI-Capstone-Project-2025Q1)
 - This is the [Gen AI Intensive Course Capstone 2025Q1 Project](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1) which is part of [5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
 Participants collaborated on applying Generative AI to the problem of understanding and optimizing residential energy consumption using real-world and simulated datasets.
