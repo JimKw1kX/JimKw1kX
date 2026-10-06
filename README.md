@@ -44,8 +44,3 @@ exfiltration attacks using the K-means clustering algorithm, and performed data 
 
 ### 🔹 [Train GPT2 (124M) From Scratch](https://github.com/JimKw1kX/AI-ML-Notes/blob/main/LLM/GPT-2/train_gpt2.py)
 -  A GPT2 script built from Scratch , can be trained on [A100 Nvidia GPU](https://lambdalabs.com/) about few hours.
-
-## 📬 Contact
-
-- [Linkedin](https://www.linkedin.com/in/jimsolomonx)
-
