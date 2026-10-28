@@ -1,9 +1,3 @@
-
-
-
-![Jim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JimKw1kX&show_icons=true&theme=radical)
-
-
 ## 🛠️ Red Team Tools 
 
 ### 🔹 [Dll Shellcode Loader](https://github.com/JimKw1kX/Dll-Shellcode-Loader)
